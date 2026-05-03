@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="85" />
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img src="https://upload-os-bbs.hoyolab.com/upload/2022/04/25/46624284/9e886f6ea65bd352128aaec3f3527722_644499581990021052.jpg?x-oss-process=image/resize,s_1000/auto-orient,0/interlace,1/format,webp/quality,q_70" width="20%" align="right" />
+<img src="https://ru.pinterest.com/pin/763571311842598326?x-oss-process=image/resize,s_1000/auto-orient,0/interlace,1/format,webp/quality,q_70" width="20%" align="right" />
 
 I'm a backend developer in GO(Golang)/python
 
