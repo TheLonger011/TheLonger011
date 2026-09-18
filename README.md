@@ -18,7 +18,7 @@ Hi, I'm <a href="http://" target="_blank">Artemiu</a>
 
 <img 
   src="https://github.com/user-attachments/assets/36744a93-af15-43e7-8ada-d82091e9d77c"
-  width="250"
+  width="290"
 />
 
 </td>
