@@ -14,11 +14,11 @@ Hi, I'm <a href="http://" target="_blank">Artemiu</a>
 <tr style="border: none;">
 
 <!-- IMAGE -->
-<td width="290" valign="top" style="border: none;">
+<td width="350" valign="top" style="border: none;">
 
 <img 
   src="https://github.com/user-attachments/assets/36744a93-af15-43e7-8ada-d82091e9d77c"
-  width="290"
+  width="350"
 />
 
 </td>
